@@ -41,7 +41,7 @@
     "hoist-non-react-statics": "^2.5.0",
     "prop-types": "^15.6.0",
     "react-lifecycles-compat": "^1.0.2",
-    "react-native-safe-area-view": "^0.7.0",
+    "react-native-safe-area-view": "git+https://github.com/chenhaizhou/react-native-safe-area-view.git#rn-up-67",
     "react-native-tab-view": "~0.0.77"
   },
   "devDependencies": {
